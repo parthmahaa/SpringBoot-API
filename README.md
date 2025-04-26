@@ -10,7 +10,5 @@
 - **Exception Handling** - Global exception controller for clean error responses  
 ---
 
----
-
 ## 📦 Installation  
 1. **Clone the repository**  
